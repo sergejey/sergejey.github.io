@@ -1,2 +1,2 @@
-# sergejey.github.io
+# MajorDoMo
 Home page
